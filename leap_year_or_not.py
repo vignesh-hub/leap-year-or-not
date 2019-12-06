@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 30 23:11:13 2019
 
-@author: DELL
+@author: vignesh
 """
 print("to check the year is leap or not")
 n=input("enter the year you need to check out?\n")
